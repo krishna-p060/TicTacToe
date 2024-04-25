@@ -1,7 +1,7 @@
 package org.example.models;
 
 public enum BotDifficultyLevel {
-    ESAY,
+    EASY,
     MEDIUM,
     HARD
 }
